@@ -1,4 +1,4 @@
-![workflow status](https://github.com/DociDog/api_yamdb/actions/workflows/yamdb_workflow.yml/badge.svg)
+![workflow status](https://github.com/DociDog/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ## Описание
 API YaMDb собирает отзывы пользователей на различные произведения такие как
